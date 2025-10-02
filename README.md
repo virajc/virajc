@@ -1,4 +1,3 @@
-<div align<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🌟 Tech Enthusiast | 🔧 Tinkerer by Birth</h3>"center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Viraj+Chautmal!;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
